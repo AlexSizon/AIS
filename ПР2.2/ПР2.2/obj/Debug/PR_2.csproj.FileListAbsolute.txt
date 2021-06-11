@@ -1,0 +1,15 @@
+D:\study\Проектування АІС\PR_2\PR_2\bin\Debug\Hostel.mdb
+D:\study\Проектування АІС\PR_2\PR_2\bin\Debug\PR_2.exe.config
+D:\study\Проектування АІС\PR_2\PR_2\bin\Debug\PR_2.exe
+D:\study\Проектування АІС\PR_2\PR_2\bin\Debug\PR_2.pdb
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.csprojAssemblyReference.cache
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.MainForm.resources
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.Properties.Resources.resources
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.csproj.GenerateResource.cache
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.csproj.CoreCompileInputs.cache
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.exe
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.pdb
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.RSForm.resources
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.QueryEdit.resources
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.EditForm.resources
+D:\study\Проектування АІС\PR_2\PR_2\obj\Debug\PR_2.csproj.AssemblyReference.cache

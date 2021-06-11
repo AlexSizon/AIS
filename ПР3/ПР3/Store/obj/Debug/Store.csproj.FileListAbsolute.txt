@@ -1,0 +1,12 @@
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\bin\Debug\StoreDB.mdb
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\bin\Debug\Store.exe.config
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\bin\Debug\Store.exe
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\bin\Debug\Store.pdb
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\obj\Debug\Store.csprojAssemblyReference.cache
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\obj\Debug\Store.AddEditProduct.resources
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\obj\Debug\Store.Basket.resources
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\obj\Debug\Store.MainForm.resources
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\obj\Debug\Store.Properties.Resources.resources
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\obj\Debug\Store.csproj.GenerateResource.cache
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\obj\Debug\Store.exe
+D:\Learning\PPC\Проєктування АІС\ПР3\Store\obj\Debug\Store.pdb
