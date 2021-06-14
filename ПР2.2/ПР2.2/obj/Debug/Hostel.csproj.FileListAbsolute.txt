@@ -1,0 +1,14 @@
+D:\GIt\AIS\ПР2.2\ПР2.2\obj\Debug\PR_2.EditForm.resources
+D:\GIt\AIS\ПР2.2\ПР2.2\obj\Debug\PR_2.QueryEdit.resources
+D:\GIt\AIS\ПР2.2\ПР2.2\obj\Debug\PR_2.MainForm.resources
+D:\GIt\AIS\ПР2.2\ПР2.2\obj\Debug\PR_2.RSForm.resources
+D:\GIt\AIS\ПР2.2\ПР2.2\obj\Debug\PR_2.Properties.Resources.resources
+D:\GIt\AIS\ПР2.2\ПР2.2\obj\Debug\Hostel.csproj.GenerateResource.cache
+D:\GIt\AIS\ПР2.2\ПР2.2\obj\Debug\Hostel.csproj.CoreCompileInputs.cache
+D:\GIt\AIS\ПР2.2\ПР2.2\obj\Debug\PR_2.exe
+D:\GIt\AIS\ПР2.2\ПР2.2\obj\Debug\PR_2.pdb
+D:\GIt\AIS\ПР2.2\ПР2.2\bin\Debug\Hostel.mdb
+D:\GIt\AIS\ПР2.2\ПР2.2\bin\Debug\PR_2.exe.config
+D:\GIt\AIS\ПР2.2\ПР2.2\bin\Debug\PR_2.exe
+D:\GIt\AIS\ПР2.2\ПР2.2\bin\Debug\PR_2.pdb
+D:\GIt\AIS\ПР2.2\ПР2.2\obj\Debug\Hostel.csprojAssemblyReference.cache

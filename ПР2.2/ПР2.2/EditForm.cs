@@ -96,7 +96,7 @@ namespace PR_2
             }
             else
             {
-                studentsTableAdapter.Insert(textBox_SNP.Text, dateTimePicker_Birth.Value, Gender,
+                studentsTableAdapter.InsertQuery(textBox_SNP.Text, dateTimePicker_Birth.Value, Gender,
                 textBox_Address.Text, textBox_Group.Text,
                 Convert.ToInt32(comboBox_Discount.SelectedValue), textBox_Document.Text,
                 Convert.ToInt32(comboBox_Room.SelectedValue), DateTime.Now);

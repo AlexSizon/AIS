@@ -38,7 +38,7 @@ namespace PR_2
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error");
+                MessageBox.Show("Error:"+ex.Message);
             }
         }
     }
